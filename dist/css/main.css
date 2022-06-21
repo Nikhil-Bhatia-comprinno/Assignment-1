@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.shadow {
+  -webkit-box-shadow: 10px 10 px 10 px black;
+          box-shadow: 10px 10 px 10 px black;
+}
+
+.col {
+  height: 15rem;
+}
+
+.btn {
+  margin-top: 6rem;
+}
+
+.buybtn {
+  margin-top: 2rem;
+}
+
+#imgcard {
+  margin-right: 20px;
+  height: 100%;
+}
+
+#image {
+  height: 12rem;
+  width: 15rem;
+}
+
+.buysection {
+  margin-left: 3rem;
+}
+
+#loancard {
+  display: none;
+}
+
+#msgbox1 {
+  display: none;
+}
+
+#msgbox2 {
+  display: none;
+}
+/*# sourceMappingURL=main.css.map */
